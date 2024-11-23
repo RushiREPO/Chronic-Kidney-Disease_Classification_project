@@ -1,7 +1,4 @@
 # Chronic-Kidney-Disease_Classification_project
-Here’s a **README.md** draft for your Chronic Kidney Disease Classification project, based on the information provided:
-
----
 
 # Chronic Kidney Disease (CKD) Classification Project
 
