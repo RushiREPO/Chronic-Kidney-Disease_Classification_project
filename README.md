@@ -1,5 +1,3 @@
-# Chronic-Kidney-Disease_Classification_project
-
 # Chronic Kidney Disease (CKD) Classification Project
 
 ## Overview
